@@ -760,7 +760,7 @@
         </section>
 
       </div><!-- /.content-wrapper -->
-
+{{--
       <footer class="main-footer hidden-print">
 
         <div class="pull-right hidden-xs">
@@ -790,8 +790,8 @@
           @endif
 
 
-        {{-- <a target="_blank" href="https://snipeitapp.com" rel="noopener">Snipe-IT</a> is open source software, made with <i class="fa fa-heart" style="color: #a94442; font-size: 10px"></i> by <a href="https://twitter.com/snipeitapp" rel="noopener">@snipeitapp</a>. --}}
-      </footer>
+        <a target="_blank" href="https://snipeitapp.com" rel="noopener">Snipe-IT</a> is open source software, made with <i class="fa fa-heart" style="color: #a94442; font-size: 10px"></i> by <a href="https://twitter.com/snipeitapp" rel="noopener">@snipeitapp</a>.
+      </footer> --}}
 
 
 
